@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tabbed2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Wood is a porous and fibrous structural tissue found in the stems and roots of trees and other woody plants. It is an organic material, a natural composite of cellulose fibers that are strong in tension and embedded in a matrix of lignin that resists compression. Wood is sometimes defined as only the secondary xylem in the stems of trees,[1] or it is defined more broadly to include the same type of tissue elsewhere such as in the roots of trees or shrubs.[citation needed] In a living tree it performs a support function, enabling woody plants to grow large or to stand up by themselves. It also conveys water and nutrients between the leaves, other growing tissues, and the roots. Wood may also refer to other plant materials with comparable properties, and to material engineered from wood, or wood chips or fiber.
+
+Wood has been used for thousands of years for fuel, as a construction material, for making tools and weapons, furniture and paper, and as a feedstock for the production of purified cellulose and its derivatives, such as cellophane and cellulose acetate. </string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
